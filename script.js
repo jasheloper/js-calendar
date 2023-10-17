@@ -10,11 +10,11 @@ select.addEventListener("change", () => {
 
   // ADD CONDITIONAL HERE
 
-
-    // A function called createCalendar() that draws the calendar and displays the correct month in the h1 element.
-
   createCalendar(days, choice);
 });
+
+
+// A function called createCalendar() that draws the calendar and displays the correct month in the h1 element.
 
 function createCalendar(days, choice) {
   list.innerHTML = "";
