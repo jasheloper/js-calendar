@@ -2,10 +2,16 @@ const select = document.querySelector("select");
 const list = document.querySelector("ul");
 const h1 = document.querySelector("h1");
 
+
+// An onchange event handler to detect when the value selected in the <select> menu is changed.
+
 select.addEventListener("change", () => {
   const choice = select.value;
 
   // ADD CONDITIONAL HERE
+
+
+    // A function called createCalendar() that draws the calendar and displays the correct month in the h1 element.
 
   createCalendar(days, choice);
 });
