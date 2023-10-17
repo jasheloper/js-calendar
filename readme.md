@@ -1,6 +1,11 @@
-#  Objective
+## Demo 
+N/A yet
+
+##  Objective
 
 In this example, you are going to help us finish a simple calendar application.
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_a_simple_calendar
 
 
 ## Instructions 
