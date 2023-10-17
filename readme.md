@@ -5,6 +5,7 @@ N/A yet
 
 In this example, you are going to help us finish a simple calendar application.
 
+#### MDN link:
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_a_simple_calendar
 
 
