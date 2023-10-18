@@ -8,7 +8,8 @@
 </head>
 <body>
   
-  <h2>Live output</h2>
+<h2>Live output</h2>
+
 <div class="output" style="height: 500px;overflow: auto;">
   <label for="month">Select month: </label>
   <select id="month">
@@ -46,8 +47,6 @@
       } else if (choice === "April" || choice === "June" || choice === "September" || choice === "November") {
         days = 30;
       }
-
-
       createCalendar(days, choice);
     });
 
@@ -60,11 +59,8 @@
         list.appendChild(listItem);
       }
     }
-
     createCalendar(31,'January');
-
   </script>
-
 
 </body>
 </html>
